@@ -1,0 +1,29 @@
+.fall_effect{
+     position: relative;
+     transform: translate(-50%,-50%);
+     overflow: hidden;
+     z-index: 999;
+}
+ 
+.fall_effect Feuille1{
+     border: none;
+     display : inline-block;
+     transition: 1s;
+ }
+ 
+ .fall_effect Feuille1.fall{
+     pointer-events: none;
+     animation: fall 3s linear forwards;
+     background-color: black;
+     z-index: 999;
+ }
+ 
+ @keyframes fall{
+   /*  0%{
+         transform: translateY(0px);
+     }
+     100%{
+         transform: translateY(1000px) rotate(90deg);
+     }*/
+ 
+ } 
