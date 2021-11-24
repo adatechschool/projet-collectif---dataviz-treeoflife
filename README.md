@@ -1,7 +1,8 @@
 # projet-collectif---dataviz-treeoflife
 projet-collectif---dataviz-treeoflife created by GitHub Classroom
 
-Tout ce qu'on a testé sur ce projet :
+RETROSPECTIVE DU PROJET DE GROUPE DATAVIZ
+
   On a commencé par tester des animations à l'aide de bibliothèques JS et Snapsvg:
 - Snap.svg avec lequel on a réussi à animer une feuille trouvée en SVG sur internet : on l'a faite changer de couleur et tomber avec des animations 
 - On a essayé de prendre un arbre entier en SVG pour isoler et animer chaque feuille mais impossible car pas d'ID pour chaque élément
